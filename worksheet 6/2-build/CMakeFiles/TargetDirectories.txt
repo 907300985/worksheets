@@ -1,0 +1,3 @@
+C:/Users/90730/Desktop/Worksheet 5/worksheet6/2-build/CMakeFiles/QtVTKExample.dir
+C:/Users/90730/Desktop/Worksheet 5/worksheet6/2-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/90730/Desktop/Worksheet 5/worksheet6/2-build/CMakeFiles/ZERO_CHECK.dir

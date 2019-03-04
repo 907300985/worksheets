@@ -1,0 +1,11 @@
+﻿  Automatic MOC and UIC for target QtVTKExample
+  Generating ui_mainwindow.h
+  Generating qrc_icons.cpp
+  Building Custom Rule C:/Users/90730/Desktop/Worksheet 5/worksheet6/2/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/90730/Desktop/Worksheet 5/worksheet6/2-build/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+  mainwindow.cpp
+  qrc_icons.cpp
+  mocs_compilation.cpp
+  Generating Code...
+  QtVTKExample.vcxproj -> C:\Users\90730\Desktop\Worksheet 5\worksheet6\2-build\Debug\QtVTKExample.exe
